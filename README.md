@@ -1,14 +1,31 @@
-<h3 align="center">Hi 👋! My name is Benny Yoga Full stack Developer from Indonesian</h3>
+<br clear="both">
+
+<h3 align="left">Hi 👋! My name is Benny Yoga Full stack Developer from Indonesian</h3>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://images.unsplash.com/photo-1484950763426-56b5bf172dbb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  />
+<br clear="both">
+
+<img align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtoMGtrb2huZTZsNmdsNThxeTVqeHFtdm4wejdvMDVuejZ6OHRzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.webp"  />
+
+###
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=BennyYoga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=BennyYoga&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BennyYoga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -76,7 +93,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://instagram.com/bennyyoga_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -84,5 +101,9 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/BennyYoga/BennyYoga/output/snake.svg" alt="Snake animation" />
 
 ###
